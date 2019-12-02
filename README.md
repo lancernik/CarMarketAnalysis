@@ -4,14 +4,6 @@ Projekt ma na celu umożliwienie użytkownikowi porównanie kilku rynków motory
 
 
 
-Przykładowe porównanie rynków polskiego i niemieckiego dla Opla Corsy
-![GitHub Logo](http://chemmaks.pl/Img2.png)
-
-
-
-
-Przykładowe porównanie rynku 3 modeli w Polsce.
-![GitHub Logo](http://chemmaks.pl/Img1.png)
 
 ## Getting Started
 
