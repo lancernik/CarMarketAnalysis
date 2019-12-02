@@ -3,6 +3,14 @@
 Projekt ma na celu umożliwienie użytkownikowi porównanie kilku rynków motoryzacjynch, w celu podjęcia decyzji czy dany samochód sprowadzony z innego rynku faktycznie ma szansę być okazją. Niestety obecnie na polskim rynku większośc aut sprowadzanych z zagranicy ma przekłamany przebieg, lub jest sprowadzana i naprawiana po najmniejszych kosztach. 
 
 
+Przykładowe porównanie rynków polskiego i niemieckiego dla Opla Corsy
+![GitHub Logo](http://chemmaks.pl/Img2.png)
+
+
+
+
+Przykładowe porównanie rynku 3 modeli w Polsce.
+![GitHub Logo](http://chemmaks.pl/Img1.png)
 
 
 ## Getting Started
